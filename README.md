@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-I'm an ambitious learner just getting started on my coding journey🙄​.
-Still a beginner, but every day I'm learning something new and growing fast.
+I'm an ambitious learner just getting started on my coding journey​.
+Still a beginner🙄, 
+but every day I'm learning something new and growing fast.
 Always curious, always improving. 🚀
 <!--
 **kawtarelassri/kawtarelassri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
